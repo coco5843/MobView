@@ -1,0 +1,7 @@
+name: ProdigyView
+version: 1.0.1
+author: cocoraid
+main: fr.cocoraid.prodigyview.ProdigyView
+commands:
+    prodigyview:
+      aliases: [pv]
